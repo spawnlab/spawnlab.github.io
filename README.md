@@ -1,2 +1,2 @@
-# spawnlab.github.io
-Official Website for SpawnLab
+# Official Website for SpawnLab
+Copyright © Spawnlab Technologies Corp.
