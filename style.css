@@ -14,6 +14,23 @@ html, body {
     display: block;
 }
 
+a:link {
+    text-decoration: none;
+}
+  
+a:visited {
+    text-decoration: none;
+}
+  
+a:hover {
+    text-decoration: underline;
+    text-decoration-color: #303841;
+}
+  
+a:active {
+    text-decoration: none;
+}
+
 img {
     max-width: 100%;
     max-height: 100%;
@@ -79,6 +96,15 @@ h3 {
     padding: 20px 15%;
     font-family: 'Raleway';
     font-size: 24px;
+    font-weight: normal;
+    color: #F3F3F3;
+}
+
+h4 {
+    margin: 0;
+    padding: 15px 15%;
+    font-family: 'Raleway';
+    font-size: 20px;
     font-weight: normal;
     color: #F3F3F3;
 }
